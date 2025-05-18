@@ -30,8 +30,9 @@ flutter pub get
 flutter packages pub run build_runner build --delete-conflicting-outputs
 flutter run
 ```
+---
 
-# 🚀 FastLocation
+## English
 
 Flutter app to search addresses by ZIP code (CEP), with local history (Hive) and integration with map apps.
 
